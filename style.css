@@ -12,7 +12,8 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: rgb(131,58,180);
-  background: linear-gradient(90deg, rgba(131,58,180,1) 36%, rgba(253,68,29,1) 80%, rgba(252,176,69,1) 100%);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 36%, rgba(253,68,29,1) 80%, rgba(252,176,69,1) 100%);
+  }
 .wrapper{
   width: 450px;
   height: 288px;
